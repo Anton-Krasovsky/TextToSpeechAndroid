@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextToSpeechAndroid</string>
+    <string name="enter_text">Введите текст</string>
+</resources>
